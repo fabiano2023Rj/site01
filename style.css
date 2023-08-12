@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{  color: red;
+    text-decoration: none;
+}
+.img{
+    background-image: url(img/caldos.png);
+    background-size: 100% 100%;
+    margin: auto;
+    height: 200px;
+    max-width: 600px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 4px;
+
+}
+.img >p {   
+    color: white;
+    font-weight: bold;
+    padding: 30px 0px 0px 0px ;
+    
+}
+.pq{
+      font-size: small;
+     
+    }      
+
+.cmç{
+    position: relative;
+   
+    max-width: 995px;
+    max-height: 200px;
+    min-height: 100px;
+    margin: auto;
+    padding: 10px;
+
+}
+.logo{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image: url(img/logo.png) ;
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px 50px 50px 50px;
+    
+}
+
+.nome{
+    font-size: x-large;
+    position: absolute;
+    left: 130px;
+    top:25px;
+}
+
+.ver{
+    position: absolute;
+    font-size: small;
+    left:130px;
+    top: 60px;
+    
+}
+.pm{
+   
+    position: absolute;
+    font-size: small;
+    left: 185px;
+    top:60px ;
+    color: rgb(139, 137, 137);
+}
+.separador{
+    background-color:#F2F2F2;
+    height: 50px;
+    margin: auto;
+}
+main{
+   
+    max-width:1000px ;
+    min-width:300px ;
+    margin: auto;
+    padding: 7px;
+   
+}
+
+.conteiner1{
+    
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 9px;
+    max-width: 520px;
+    min-width: 300px;
+    min-height: 200px;
+    max-height: 400px;
+    margin: 0px 0px 20px 0px;
+    
+}
+
+
+.conteudo1{
+   position: absolute;
+   width: 100px;
+   height:100px ;
+   top: 60px;
+   left: 10px;
+   border-radius: 8px;
+   background-color: black;
+   margin: 10px;
+   background-size: 100% 100%;
+   background-image: url(img/quarana.webp);
+   
+}   
+.conteudo2{
+    position: absolute;
+    width: 100px;
+    height:100px ;
+    top: 50px;
+    left: 10px;
+    border-radius: 8px;
+    background-color: black;
+    background-image: url(img/fezao\ branco.jpeg);
+    background-size: 100% 100%;
+    margin: 10px;
+}
+.conteudo3{
+    position: absolute;
+    width: 100px;
+    height:100px ;
+    top: 50px;
+    left: 10px;
+    border-radius: 8px;
+    background-color: black;
+    margin: 10px;
+    background-image: url(img/caldo\ ver.jpg);
+    background-size: 100% 100%;
+}
+.conteudo4{
+    position: absolute;
+    width: 100px;
+    height:100px ;
+    top: 50px;
+    left: 10px;
+    border-radius: 8px;
+    background-color: black;
+    margin: 10px;
+    background-image: url(img/vaca\ tolada.jpg);
+    background-size: 100% 100%;   
+}
+.conteudo5{
+    position: absolute;
+    width: 100px;
+    height:100px ;
+    top: 50px;
+    left: 10px;
+    border-radius: 8px;
+    background-color: black;
+    margin: 10px;
+    background-image: url(img/sacole.jpg);
+    background-size: 100% 100%; 
+}
+.tt{
+    text-indent: 7px;
+    padding: 15px 0px 0px 10px ;
+    font-size: normal;
+    color: black;
+}   
+.ds{
+    padding: 45px 0px 0px 157px;
+    color: rgb(168, 167, 167);
+    font-size: small;
+
+}
+.vl{
+   padding:60px 0px 15px 190px ;
+}
+h2{
+    padding: 20px;
+    color:rgb(85, 82, 82) ;
+}
